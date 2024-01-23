@@ -4,7 +4,6 @@ certifi==2023.11.17
 charset-normalizer==3.3.2
 idna==3.6
 lyricsgenius==3.0.1
-pkg_resources==0.0.0
 python-dotenv==1.0.0
 redis==5.0.1
 requests==2.31.0
